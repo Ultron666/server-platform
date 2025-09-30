@@ -1,6 +1,9 @@
 {
-  "name": "client",
-  "version": "0.1.0",
+  "name": "server-platform",
+  "description": "The Official Enterprise Internal Manager Service",
+  "author": "Sky Genesis Enterprise",
+  "contact": "webmaster@skygenesisenterprise.com",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
